@@ -3,3 +3,5 @@ joblib
 fastapi
 uvicorn
 pydantic
+pytest
+httpx2
